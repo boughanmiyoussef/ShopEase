@@ -61,7 +61,6 @@ Ensure you have the following tools installed on your machine:
 - **Backend**: Node.js, Express.js
 - **Database**: MySQL
 - **Authentication**: JWT (JSON Web Tokens) for secure logins
-- **Deployment**: [Heroku](https://heroku.com) (or other platforms)
 
 ## 📝 Features
 - **User Registration & Login**: Users can create an account and sign in to place orders.
