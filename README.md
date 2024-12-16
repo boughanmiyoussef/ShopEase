@@ -57,9 +57,9 @@ Ensure you have the following tools installed on your machine:
 6. Open the app at [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🛠️ Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (React.js or vanilla JS)
+- **Frontend**: HTML, CSS, JavaScript, React.js, Material UI, Redux
 - **Backend**: Node.js, Express.js
-- **Database**: MySQL
+- **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens) for secure logins
 
 ## 📝 Features
