@@ -11,7 +11,6 @@ The MVP addresses the following key user stories:
 - **As a user**, I want to search for products by name and filter by category so I can easily find what I need.
 - **As a user**, I want to add items to my cart so I can review and purchase them later.
 - **As a user**, I want to track the status of my orders so I know when my items are shipped.
-- **As a user**, I want to see my order history so I can review previous purchases.
 
 ## 📑 Table of Contents
 1. [Installation](#installation)
